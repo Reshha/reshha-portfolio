@@ -1,7 +1,10 @@
 export default function Header() {
     return(
         <header>
-            <h1>Aaron UwU</h1>
+            <a>About</a>
+            <a>Skills</a>
+            <a>Projects</a>
+            <a>Contacts</a>
         </header>
     )
 }
