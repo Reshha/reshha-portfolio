@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    gap: 1.25em;
+    
+    a {
+        padding: 1em;
+        font-size: .75em;
+    }
+}
